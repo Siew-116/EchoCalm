@@ -1,0 +1,142 @@
+[
+  {
+    "endTime": "01/08/2025 10:05:12",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "I feel overwhelmed today.", "role": "user" },
+      { "content": "That’s completely understandable. Would you like to talk about it?", "role": "assistant" }
+    ],
+    "mood": "4",
+    "notes": "Woke up tired",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_adzim",
+    "startedAt": "01/08/2025 10:01:44",
+    "username": "tester123"
+  },
+  {
+    "endTime": "02/08/2025 09:21:33",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "Just checking in quickly.", "role": "user" },
+      { "content": "Glad you're here. Even quick check-ins matter.", "role": "assistant" }
+    ],
+    "mood": "6",
+    "notes": "Quick check-in",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_adz23",
+    "startedAt": "02/08/2025 09:19:04",
+    "username": "tester123"
+  },
+  {
+    "endTime": "03/08/2025 11:43:10",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "I'm nervous about tomorrow's presentation.", "role": "user" },
+      { "content": "Let’s walk through your thoughts step by step.", "role": "assistant" }
+    ],
+    "mood": "5",
+    "notes": "Feeling anxious",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_ad26m",
+    "startedAt": "03/08/2025 11:10:12",
+    "username": "tester123"
+  },
+  {
+    "endTime": "04/08/2025 13:15:48",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "Had a rough day at work.", "role": "user" },
+      { "content": "You’re not alone in this.", "role": "assistant" }
+    ],
+    "mood": "3",
+    "notes": "Stressful day",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_adz2dm",
+    "startedAt": "04/08/2025 13:12:10",
+    "username": "tester123"
+  },
+  {
+    "endTime": "05/08/2025 15:02:30",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "Trying to calm down.", "role": "user" },
+      { "content": "Let’s just take a breath together.", "role": "assistant" }
+    ],
+    "mood": "4",
+    "notes": "Trying to stay calm",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_a2jim",
+    "startedAt": "05/08/2025 14:59:10",
+    "username": "tester123"
+  },
+  {
+    "endTime": "06/08/2025 08:22:10",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "Needed a moment to breathe.", "role": "user" },
+      { "content": "That’s a powerful awareness — thank you for sharing.", "role": "assistant" }
+    ],
+    "mood": "5",
+    "notes": "Breathe check-in",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_sfewm",
+    "startedAt": "06/08/2025 08:20:03",
+    "username": "tester123"
+  },
+  {
+    "endTime": "07/08/2025 12:11:55",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "I feel pretty good actually.", "role": "user" },
+      { "content": "That’s good to hear. What helped you feel that way?", "role": "assistant" }
+    ],
+    "mood": "8",
+    "notes": "Feeling positive",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_boo23",
+    "startedAt": "07/08/2025 12:08:30",
+    "username": "tester123"
+  },
+  {
+    "endTime": "08/08/2025 16:44:22",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "Feeling disconnected.", "role": "user" },
+      { "content": "Thanks for opening up. What’s been on your mind?", "role": "assistant" }
+    ],
+    "mood": "2",
+    "notes": "Emotionally distant",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_bew22",
+    "startedAt": "08/08/2025 16:41:00",
+    "username": "tester123"
+  },
+  {
+    "endTime": "09/08/2025 18:33:40",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "I’m not sure what to say.", "role": "user" },
+      { "content": "We can start anywhere. What’s the first thought that comes to mind?", "role": "assistant" }
+    ],
+    "mood": "5",
+    "notes": "Uncertain",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_ajowe",
+    "startedAt": "09/08/2025 18:30:29",
+    "username": "tester123"
+  },
+  {
+    "endTime": "10/08/2025 11:58:05",
+    "id": "uGiw1WWcq2wzvVfG",
+    "messages": [
+      { "content": "You found me...I'm still here, just like before. Speak — I’m listening.", "role": "assistant" },
+      { "content": "Just wanted to talk.", "role": "user" },
+      { "content": "Of course. I’m here. What’s on your mind?", "role": "assistant" }
+    ],
+    "mood": "7",
+    "notes": "Simple connection",
+    "sessionId": "uGiw1WWcq2wzvVfG_mdzryrpg_for1m",
+    "startedAt": "10/08/2025 11:55:10",
+    "username": "tester123"
+  }
+]

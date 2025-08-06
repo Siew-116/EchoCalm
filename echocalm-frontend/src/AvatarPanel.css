@@ -1,0 +1,196 @@
+.chat-settings {
+  width: 20vw;
+  max-height: 100vh;
+  border-left: 1px solid #233554;
+  padding: 20px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #1f2a3dff;
+  overflow-y: auto;
+}
+
+.chat-info {
+  line-height: 30px;
+}
+
+.end-session-btn {
+  margin-top: 10px;
+  width: 100%;
+  padding: 10px;
+  background-color: #fff;
+  color: #000000;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.popup-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+   z-index: 998;
+}
+
+.popup-overlay {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(20, 20, 30, 0.95);
+  padding: 20px;
+  z-index: 999;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+.popup-card {
+  background: #fff;
+  color: #000;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.popup-card input,
+.popup-card textarea {
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.popup-buttons {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.cancel-btn:hover {
+    background-color:#1f2a3dff;
+    color: #fff;
+}
+
+.save-session-btn {
+    color: #fff;
+    background-color: #1f2a3dff;
+}
+
+.section-divider {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+  opacity: 0.5;
+}
+
+.select-input {
+  margin-left: 15px;
+  margin-bottom: 15px;
+  padding: 2px;
+  font-size: 16px;
+}
+
+.tone-slider {
+  margin-left: 46px;
+  accent-color: #B9DEF0; 
+}
+
+.authority-slider {
+  accent-color: #B9DEF0; 
+}
+
+.empathy-slider {
+  margin-left: 20px;
+  accent-color: #B9DEF0; 
+}
+
+.tuners {
+    margin-top: 20px;
+}
+.tuner {
+  margin-bottom: 14px;
+}
+
+.tuner-label {
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.tuner-value {
+  color: #555;
+  margin-bottom: 8px;
+}
+
+.language-selector {
+  margin-top: 10px;
+  margin-left: 23px;
+  padding: 2px;
+}
+
+.voice-mode {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.voice-toggle-btn {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 16px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.voice-toggle-btn.on {
+  background-color: #4caf50;
+  color: #fff;
+}
+
+.voice-toggle-btn.off {
+  background-color: #b9def0;
+  color: #000;
+}
+
+.pitch-slider {
+  margin-left: 40px;
+  accent-color: #B9DEF0; 
+}
+
+.rate-slider {
+  margin-left: 50px;
+  accent-color: #B9DEF0; 
+}
+
+.volume-slider {
+  margin-left: 30px;
+  accent-color: #B9DEF0; 
+}
+
+.test-message {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin-top: 10px;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.voice-test-btn {
+  width: 100%;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #fff;
+  color: #000;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
