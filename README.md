@@ -1,5 +1,9 @@
 # EchoCalm – AI Therapist Chat Website App
 This project is a web-based mental health tool inspired by Avatar Therapy (proposed by Prof. Julian Leff), where creates a visual and auditory representation of the voices they hear, and over time, the tone shifts to become more supportive. Our project adapts this idea into a self-guided, AI-powered platform using real-time chat and voice synthesis.
+[Picth Video](https://youtu.be/sG3NBFFVAS8?si=2U2sUPVz3JVfQkUB)
+
+## Live Demo Link
+Try the live frontend here: [EchoCalm Demo](https://echocalm.netlify.app/)
 
 ## Tech Stack
 - **Frontend:** React (JSX + CSS)
